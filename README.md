@@ -22,9 +22,12 @@ lisa va a la escuela y luego realiza la actividad inventada
 
 2. Logros 
 También se definen logros que pueden ser alcanzados por una persona. Modelar los siguientes:
+
 Ser millonario: lo alcanza  si tiene más dinero que el Sr. Burns 
 Alegrarse: dado un nivel de felicidad deseado, lo alcanza si su propia felicidad lo supera.
+
 Ir a ver el programa de Krosti: lo  alcanza si tiene al menos $10
+
 Agregar uno inventado por ustedes
                         
 Se quiere averiguar si una actividad resulta decisiva para un personaje para alcanzar un logro. Es decir que alguien que no alcanza un logro, pero que cuando realiza la acción indicada sí lo logra.  Por ejemplo, si bart tiene 6$ no puede ir a ver a krosty, pero si va a trabajar para la "mafia" pasaría a tener 11 lo lograría por lo tanto, dicha actividad resulta decisiva.
