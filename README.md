@@ -34,5 +34,5 @@ Se quiere averiguar si una actividad resulta decisiva para un personaje para alc
             
 Dada una persona, un logro a alcanzar y una serie de actividades, encontrar la primera de ellas que sea decisiva y hacer que la persona la realice obteniendo cómo queda dicha persona. En caso que no haya ninguna decisiva, la persona permanece igual. 
 
-Construir una lista infinita de actividades y mostrar al menos dos ejemplos de aplicacion de la funcíon anterior donde sucedan diferentes c
+Construir una lista infinita de actividades y mostrar al menos dos ejemplos de aplicacion de la funcíon anterior donde sucedan diferentes cosas. 
 

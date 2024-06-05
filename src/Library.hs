@@ -66,7 +66,7 @@ irTrabajar laburo = dineroSegunF (+ length laburo)
 
 -- Funcion 4
 irTrabajarDirector :: Actividad
-irTrabajarDirector = irTrabajar "Escuela Elemental" . felicidadSegunF (subtract 20)
+irTrabajarDirector = irTrabajar "Escuela Elemental" . irEscuela
 
 -- Funcion 5
 irALaFacu :: Actividad
@@ -123,7 +123,7 @@ alegrarse = propMayorA felicidad
 
 -- Funcion 3
 verProgramaKrosti :: Logro
-verProgramaKrosti = propMayorA dinero 10 -- MAYOR O IGUAL ??
+verProgramaKrosti = (>= 10) . dinero
 
 -- Funcion 4 (Inventada)
 comprarAuto :: Logro
